@@ -1,3 +1,5 @@
+# This file handles data loading and index creation. 
+
 import requests
 from minsearch import Index
 
